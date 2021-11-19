@@ -9,7 +9,7 @@ ROOTFS_FN="Rocky-${OS_MAJOR_VER}-GenericCloud-${ROOTFS_VER}.${ARCH}.qcow2"
 ROOTFS_URL="https://dl.rockylinux.org/pub/rocky/${OS_FULL_VER}/images/${ROOTFS_FN}"
 
 # Environment variables for Yuk7's wsldl
-LNCR_BLD="21062500"
+LNCR_BLD="21082800"
 LNCR_ZIP="icons.zip"
 LNCR_NAME="Rocky"
 LNCR_FN=${LNCR_NAME}.exe
