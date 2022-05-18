@@ -3,8 +3,8 @@
 # Environment variables for the Rocky Linux cloud image
 ARCH="x86_64"
 OS_MAJOR_VER="8"
-OS_FULL_VER="8.5"
-ROOTFS_VER="8.5-20211114.2"
+OS_FULL_VER="8.6"
+ROOTFS_VER="8.6-20220515"
 ROOTFS_FN="Rocky-${OS_MAJOR_VER}-GenericCloud-${ROOTFS_VER}.${ARCH}.qcow2"
 ROOTFS_URL="https://dl.rockylinux.org/pub/rocky/${OS_FULL_VER}/images/${ROOTFS_FN}"
 
