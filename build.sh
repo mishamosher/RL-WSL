@@ -6,7 +6,7 @@ OS_MAJOR_VER="9"
 OS_FULL_VER="9.0"
 ROOTFS_VER="9.0-20220706.0"
 ROOTFS_FN="Rocky-${OS_MAJOR_VER}-GenericCloud-${ROOTFS_VER}.${ARCH}.qcow2"
-ROOTFS_URL="https://dl.rockylinux.org/pub/rocky/${OS_FULL_VER}/images/${ROOTFS_FN}"
+ROOTFS_URL="https://dl.rockylinux.org/pub/rocky/${OS_FULL_VER}/images/${ARCH}/${ROOTFS_FN}"
 
 # Environment variables for Yuk7's wsldl
 LNCR_BLD="22020900"
