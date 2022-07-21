@@ -4,7 +4,7 @@
 ARCH="x86_64"
 OS_MAJOR_VER="8"
 OS_FULL_VER="8.6"
-ROOTFS_VER="8.6-20220515"
+ROOTFS_VER="8.6.20220702.0"
 ROOTFS_FN="Rocky-${OS_MAJOR_VER}-GenericCloud-${ROOTFS_VER}.${ARCH}.qcow2"
 ROOTFS_URL="https://dl.rockylinux.org/pub/rocky/${OS_FULL_VER}/images/${ROOTFS_FN}"
 
